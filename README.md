@@ -1,8 +1,10 @@
 # BeerJS Хабаровск
 
-<img src="https://github.com/beerjs/khabarovsk/blob/master/logo.png" align="left" hspace="10" vspace="6" width="20%">
+<img src="https://github.com/beerjs/khabarovsk/blob/master/logo.png" align="left" hspace="10" vspace="6" width="40%">
 
 Неформальные встречи хабаровских разработчиков. Обсуждаем Javascript, фронтенд, бэкенд, фреймворки, новости, проблемы и лучшие практики.
+
+Обусждаем жизнь нашего сообщества, открыто высказываемся, предалагаем и делаем!
 
 
 ## Как присоединиться

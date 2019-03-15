@@ -9,7 +9,7 @@
 
 ## Как присоединиться
 
-Ближайшая встреча — **19 января**. [Приходите!](https://github.com/beerjs/kahabrovsk/issues/1)
+Ближайшая встреча — **06 апреля**. [Приходите!](https://github.com/beerjs/khabarovsk/issues/3)
 
 Информация о встречах появляется в [issues](https://github.com/beerjs/khabarovsk/issues) этого репозитория. Нажмите кнопку **Watch**, чтобы получать уведомления о будущих мероприятиях.
 

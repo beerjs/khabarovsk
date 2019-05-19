@@ -18,5 +18,6 @@
 
 Встреча | Место                                                                   | Дата
 --------|-------------------------------------------------------------------------|------------------
-2       | [BeerFest](https://github.com/beerjs/khabarovsk/issues/5)                  | 01 июня 2019
+3       | [BeerFest](https://github.com/beerjs/khabarovsk/issues/5)                  | 01 июня 2019
+2       | [BeerFest](https://github.com/beerjs/khabarovsk/issues/3)                  | 06 апреля 2019
 1       | [BeerFest](https://github.com/beerjs/khabarovsk/issues/1)                  | 19 января 2019

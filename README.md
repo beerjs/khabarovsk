@@ -10,7 +10,7 @@
 
 ## Как присоединиться
 
-Ближайшая встреча — **4 апреля (в день 404)**. [Приходите!](https://github.com/beerjs/kahabrovsk/issues/7)
+Ближайшая встреча — **4 апреля (в день 404)**. [Приходите!](https://github.com/beerjs/khahabrovsk/issues/7)
 
 Информация о встречах появляется в [issues](https://github.com/beerjs/khabarovsk/issues) этого репозитория. Нажмите кнопку **Watch**, чтобы получать уведомления о будущих мероприятиях.
 
@@ -19,7 +19,7 @@
 
 Встреча | Место                                                                   | Дата
 --------|-------------------------------------------------------------------------|------------------
-5       | [ищем уютный бар на 30-40-50 мест](https://github.com/beerjs/kahabrovsk/issues/7)                  | 04 апреля 2020
+5       | [ищем уютный бар на 30-40-50 мест](https://github.com/beerjs/khahabrovsk/issues/7)                  | 04 апреля 2020
 4       | [Льва Толстого 2](https://github.com/beerjs/khabarovsk/issues/6)                | 18 января 2020
 3       | [BeerFest](https://github.com/beerjs/khabarovsk/issues/5)                  | 01 июня 2019
 2       | [BeerFest](https://github.com/beerjs/khabarovsk/issues/3)                  | 06 апреля 2019
